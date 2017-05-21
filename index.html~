@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="SHIELD - Free Bootstrap 3 Theme">
+    <meta name="author" content="Carlos Alvarez - Alvarez.is - blacktie.co">
+    <link rel="shortcut icon" href="assets/ico/favicon.png">
+
+    <title> Action expertise comptable</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="assets/css/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/icomoon.css">
+    <link href="assets/css/animate-custom.css" rel="stylesheet">
+
+    
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+    
+    <script src="assets/js/jquery.min.js"></script>
+	<script type="text/javascript" src="assets/js/modernizr.custom.js"></script>
+	
+
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="assets/js/html5shiv.js"></script>
+      <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body data-spy="scroll" data-offset="0" data-target="#navbar-main">
+  
+  
+  	<div id="navbar-main">
+      <!-- Fixed navbar -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon icon-shield" style="font-size:30px; color:#3498db;"></span>
+          </button>
+          <a class="navbar-brand hidden-xs hidden-sm" href="#home"><span class="icon icon-shield" style="font-size:18px; color:#3498db;"></span></a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="#home" class="smoothScroll">Accueil</a></li>
+			<li> <a href="#about" class="smoothScroll"> Notre histoire</a></li>
+			<li> <a href="#services" class="smoothScroll"> Services</a></li>
+			<li> <a href="#team" class="smoothScroll"> Team</a></li>
+			<li> <a href="#portfolio" class="smoothScroll"> Portfolio</a></li>
+			<li> <a href="#blog" class="smoothScroll"> Blog</a></li>
+			<li> <a href="#contact" class="smoothScroll"> Contact</a></li>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    </div>
+
+  
+  
+		<!-- ==== HEADERWRAP ==== -->
+	    <div id="headerwrap" id="home" name="home">
+			<header class="clearfix">
+	  		 		<h1><span class="icon icon-shield"></span></h1>
+	  		 		<p>Action expertise comptable.</p>
+	  		 		<p>C'est beaucoup la qualité.</p>
+	  		</header>	    
+	    </div><!-- /headerwrap -->
+
+		<!-- ==== GREYWRAP ==== -->
+		<div id="greywrap">
+			<div class="row">
+				<div class="col-lg-4 callout">
+					<span class="icon icon-stack"></span>
+					<h2>Bootstrap 3</h2>
+					<p>Shield Theme is powered by Bootstrap 3. The incredible Mobile First Framework is the best option to run your website. </p>
+				</div><!-- col-lg-4 -->
+					
+				<div class="col-lg-4 callout">
+					<span class="icon icon-eye"></span>
+					<h2>Retina Ready</h2>
+					<p>You can use this theme with your iPhone, iPad or MacBook Pro. This theme is retina ready and that is awesome. </p>
+				</div><!-- col-lg-4 -->	
+				
+				<div class="col-lg-4 callout">
+					<span class="icon icon-heart"></span>
+					<h2>Crafted with Love</h2>
+					<p>We don't make sites, we craft themes with love & passion. That is our most valued secret. We only do thing that we love.   </p>
+				</div><!-- col-lg-4 -->	
+			</div><!-- row -->
+		</div><!-- greywrap -->
+		
+		<!-- ==== ABOUT ==== -->
+		<div class="container" id="about" name="about">
+			<div class="row white">
+			<br>
+				<h1 class="centered">ON EST VRAIMENT TROP COOL</h1>
+				<hr>
+				
+				<div class="col-lg-6">
+				  <p>
+				    J'te jure qu'on est trop cool, demande à qui tu veux il te le dira !<br>
+				    En plus de ça on est gentil, et le fils du patron il est encore plus cool que nous.<br>
+				    Rends toi compte, là il est sensé être en vacances et pourtant il s'applique à faire de jolies choses pour son papa !<br>
+				    Le hic c'est que niveau contenu il est un peu limité, du coup il écrit de la merde.
+				    Le plus frustrant quand on écrit de la merde c'est pas la peur de la moquerie d'éventuels lecteurs, mais celle de ne pas être lu, et de devoir porter seul le poids de sa propre puérilité.
+				  </p>
+				</div><!-- col-lg-6 -->
+				
+				<div class="col-lg-6">
+				  <p>
+				    Ca vous dit une définition du streptocoque?!<br>
+				    Le streptocoque est une bactérie gram positive de forme arrondie qui s'associe en chainettes !<br>
+				    Bon c'est pas très constructif tout ça !<br>
+				    ...<br>
+				    ...<br>
+				    Je sais, on va lire les mots du dictionnaire et leur définition !<br>
+				    Lettre A : ABACA -> matière textile aussi appelée chanvre de Manille<br>
+</p>
+				</div><!-- col-lg-6 -->
+			</div><!-- row -->
+		</div><!-- container -->
+		
+		<!-- ==== SECTION DIVIDER1 -->
+		<section class="section-divider textdivider divider1">
+			<div class="container">
+				<h1>UNE INFRASTRUCTURE SÉCURISÉE</h1>
+				<hr>
+				<p>C'est beaucoup la sécurité, en plus on fait tout pleins de sauvegardes, WALLAH c'est que du bon !</p>
+			</div><!-- container -->
+		</section><!-- section -->
+		
+		
+		<!-- ==== SERVICES ==== -->
+		<div class="container" id="services" name="services">
+			<br>
+			<br>
+			<div class="row">
+				<h2 class="centered">ONE BRAND, ONE VOICE.</h2>
+				<hr>
+				<br>
+				<div class="col-lg-offset-2 col-lg-8">
+					<p>Employees and consumers. Two halves of a brand’s entirety, the whole of a brand’s audience. Sometimes these two halves have very different viewpoints, creating a weak spot in the brand story. Weakness tarnishes credibility. Brands that aren’t credible aren’t viable.
+					</p>
+					<p>We squash weakness by designing the whole brand story. It’s crafted around the truism held by employees and consumers to create an experience that connects from the inside out.</p>
+					<p>By being true to the brand we represent, we elevate the audiences’ relationship to it. Like becomes love becomes a passion. Passion becomes advocacy. And we see the brand blossom from within, creating a whole story the audience embraces. That’s when the brand can truly flex its muscles.</p>
+				</div><!-- col-lg -->
+			</div><!-- row -->
+			
+			<div class="row">
+				<h2 class="centered">MOBILE FIRST THINKING, ALWAYS.</h2>
+				<hr>
+				<br>
+				<div class="col-lg-offset-2 col-lg-8">
+					<img class="img-responsive" src="assets/img/iphone.png" alt="">
+				</div><!-- col -->
+			</div><!-- row -->
+		</div><!-- container -->
+  		
+
+		<!-- ==== SECTION DIVIDER2 -->
+		<section class="section-divider textdivider divider2">
+			<div class="container">
+				<h1>DESIGN IS AN INTERACTION</h1>
+				<hr>
+				<p>To develop a deeper and more meaningful connection with consumers, we believe design must invite them to take part in the conversation.</p>
+			</div><!-- container -->
+		</section><!-- section -->
+
+		<!-- ==== TEAM MEMBERS ==== -->
+		<div class="container" id="team" name="team">
+		<br>
+			<div class="row white centered">
+				<h1 class="centered">MEET OUR AWESOME TEAM</h1>
+				<hr>
+				<br>
+				<br>
+				<div class="col-lg-3 centered">
+					<img class="img img-circle" src="assets/img/team/team01.jpg" height="120px" width="120px" alt="">
+					<br>
+					<h4><b>Mike Arney</b></h4>
+					<a href="#" class="icon icon-linkedin"></a>
+					<a href="#" class="icon icon-facebook"></a>
+					<a href="#" class="icon icon-flickr"></a>
+					<p>Mike combines an expert technical knowledge with a real eye for design. Working with clients from a wide range of industries, he fully understands client objectives when working on a project, large or small.</p>
+				</div><!-- col-lg-3 -->
+				
+				<div class="col-lg-3 centered">
+					<img class="img img-circle" src="assets/img/team/team02.jpg" height="120px" width="120px" alt="">
+					<br>
+					<h4><b>Tim Davies</b></h4>
+					<a href="#" class="icon icon-twitter"></a>
+					<a href="#" class="icon icon-facebook"></a>
+					<a href="#" class="icon icon-flickr"></a>
+					<p>Tim is an experienced marcoms practitioner and manages projects from inception to delivery. He understands the synergy between great design and commercial effectiveness which shines through on every project.</p>
+				</div><!-- col-lg-3 -->
+				
+				<div class="col-lg-3 centered">
+					<img class="img img-circle" src="assets/img/team/team03.jpg" height="120px" width="120px" alt="">
+					<br>
+					<h4><b>Michele Lampa</b></h4>
+					<a href="#" class="icon icon-twitter"></a>
+					<a href="#" class="icon icon-facebook"></a>
+					<a href="#" class="icon icon-flickr"></a>
+					<p>Be a creative director is a hard task, but Michele loves what she does. Her combination of knowledge and expertise is an important pillar in our agency.</p>
+				</div><!-- col-lg-3 -->
+				
+				<div class="col-lg-3 centered">
+					<img class="img img-circle" src="assets/img/team/team04.jpg" height="120px" width="120px" alt="">
+					<br>
+					<h4><b>Jaye Smith</b></h4>
+					<a href="#" class="icon icon-twitter"></a>
+					<a href="#" class="icon icon-facebook"></a>
+					<a href="#" class="icon icon-flickr"></a>
+					<p>Jaye began making websites when animated logos and scrolling text were cool, but has since found a love for simplicity, creating websites that are a pleasure to browse. Monkey Island Fan.</p>
+				</div><!-- col-lg-3 -->
+				
+			</div><!-- row -->
+		</div><!-- container -->
+
+		<!-- ==== GREYWRAP ==== -->
+		<div id="greywrap">
+			<div class="container">
+				<div class="row">
+				
+				<div class="col-lg-8 centered">
+				<!--
+					<div id="map" style="width:100%;height:100vh"></div>
+				-->				
+					<div id="map" style="width:100%;height:50vh"></div>
+				</div>
+					
+					<div class="col-lg-4">
+					
+					<h3 style="text-align:center">Contactez nous !</h3>
+						<p>
+							<span class="icon icon-home"></span> 1bis Avenue de Gravelle,<br/>94220, Charenton le pont<br/><br/>
+							<span class="icon icon-phone"></span> +336 60 63 01 12<br/><br/>
+							<span class="icon icon-mobile"></span> +336 60 63 01 12 <br/><br/>
+							<span class="icon icon-envelop"></span> action@action.todo <br/>
+							
+						</p>
+						
+					</div>					
+				</div><!-- row -->
+			</div>
+			<br>
+			<br>
+		</div><!-- greywrap -->
+		
+		<!-- ==== SECTION DIVIDER3 -->
+		<section class="section-divider textdivider divider3">
+			<div class="container">
+				<h1>DESIGN SOLVE PROBLEMS</h1>
+				<hr>
+				<p>From the purely practical to the richly philosophical, design is the solution to a host of challenges.</p>
+			</div><!-- container -->
+		</section><!-- section -->
+		
+		<!-- ==== PORTFOLIO ==== -->
+		<div class="container" id="portfolio" name="portfolio">
+		<br>
+			<div class="row">
+				<br>
+				<h1 class="centered">WE CREATE COOL STUFF</h1>
+				<hr>
+				<br>
+				<br>
+			</div><!-- /row -->
+			<div class="container">
+			<div class="row">	
+			
+				<!-- PORTFOLIO IMAGE 1 -->
+				<div class="col-md-4 ">
+			    	<div class="grid mask">
+						<figure>
+							<img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt="">
+							<figcaption>
+								<h5>DASHBOARD</h5>
+								<a data-toggle="modal" href="#myModal" class="btn btn-primary btn-lg">Take a Look</a>
+							</figcaption><!-- /figcaption -->
+						</figure><!-- /figure -->
+			    	</div><!-- /grid-mask -->
+				</div><!-- /col -->
+				
+				
+						 <!-- MODAL SHOW THE PORTFOLIO IMAGE. In this demo, all links point to this modal. You should create
+						      a modal for each of your projects. -->
+						      
+						  <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+						    <div class="modal-dialog">
+						      <div class="modal-content">
+						        <div class="modal-header">
+						          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						          <h4 class="modal-title">Project Title</h4>
+						        </div>
+						        <div class="modal-body">
+						          <p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p>
+						          <p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>
+						          <p><b><a href="#">Visit Site</a></b></p>
+						        </div>
+						        <div class="modal-footer">
+						          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+						        </div>
+						      </div><!-- /.modal-content -->
+						    </div><!-- /.modal-dialog -->
+						  </div><!-- /.modal -->
+				
+				
+				<!-- PORTFOLIO IMAGE 2 -->
+				<div class="col-md-4">
+			    	<div class="grid mask">
+						<figure>
+							<img class="img-responsive" src="assets/img/portfolio/folio02.jpg" alt="">
+							<figcaption>
+								<h5>UI DESIGN</h5>
+								<a data-toggle="modal" href="#myModal" class="btn btn-primary btn-lg">Take a Look</a>
+							</figcaption><!-- /figcaption -->
+						</figure><!-- /figure -->
+			    	</div><!-- /grid-mask -->
+				</div><!-- /col -->
+				
+				<!-- PORTFOLIO IMAGE 3 -->
+				<div class="col-md-4">
+			    	<div class="grid mask">
+						<figure>
+							<img class="img-responsive" src="assets/img/portfolio/folio03.jpg" alt="">
+							<figcaption>
+								<h5>ANDROID PAGE</h5>
+								<a data-toggle="modal" href="#myModal" class="btn btn-primary btn-lg">Take a Look</a>
+							</figcaption><!-- /figcaption -->
+						</figure><!-- /figure -->
+			    	</div><!-- /grid-mask -->
+				</div><!-- /col -->
+			</div><!-- /row -->
+
+				<!-- PORTFOLIO IMAGE 4 -->
+			<div class="row">	
+				<div class="col-md-4 ">
+			    	<div class="grid mask">
+						<figure>
+							<img class="img-responsive" src="assets/img/portfolio/folio04.jpg" alt="">
+							<figcaption>
+								<h5>PROFILE</h5>
+								<a data-toggle="modal" href="#myModal" class="btn btn-primary btn-lg">Take a Look</a>
+							</figcaption><!-- /figcaption -->
+						</figure><!-- /figure -->
+			    	</div><!-- /grid-mask -->
+				</div><!-- /col -->
+				
+				<!-- PORTFOLIO IMAGE 5 -->
+				<div class="col-md-4">
+			    	<div class="grid mask">
+						<figure>
+							<img class="img-responsive" src="assets/img/portfolio/folio05.jpg" alt="">
+							<figcaption>
+								<h5>TWITTER STATUS</h5>
+								<a data-toggle="modal" href="#myModal" class="btn btn-primary btn-lg">Take a Look</a>
+							</figcaption><!-- /figcaption -->
+						</figure><!-- /figure -->
+			    	</div><!-- /grid-mask -->
+				</div><!-- /col -->
+				
+				<!-- PORTFOLIO IMAGE 6 -->
+				<div class="col-md-4">
+			    	<div class="grid mask">
+						<figure>
+							<img class="img-responsive" src="assets/img/portfolio/folio06.jpg" alt="">
+							<figcaption>
+								<h5>PHONE MOCKUP</h5>
+								<a data-toggle="modal" href="#myModal" class="btn btn-primary btn-lg">Take a Look</a>
+							</figcaption><!-- /figcaption -->
+						</figure><!-- /figure -->
+			    	</div><!-- /grid-mask -->
+				</div><!-- /col -->
+			</div><!-- /row -->
+			<br>
+			<br>
+		</div><!-- /row -->
+	</div><!-- /container -->
+
+		<!-- ==== SECTION DIVIDER4 ==== -->
+		<section class="section-divider textdivider divider4">
+			<div class="container">
+				<h1>DESIGN CREATES EMOTIONAL CONNECTION</h1>
+				<hr>
+				<p>There’s more to design than meets the eye. It’s when it meets the heart that design creates a meaningful, lasting connection with the audience.</p>
+			</div><!-- container -->
+		</section><!-- section -->
+		
+		<!-- ==== BLOG ==== -->
+		<div class="container" id="blog" name="blog">
+		<br>
+			<div class="row">
+				<br>
+				<h1 class="centered">WE ARE STORYTELLERS</h1>
+				<hr>
+				<br>
+				<br>
+			</div><!-- /row -->
+			
+			<div class="row">
+				<div class="col-lg-6 blog-bg">
+					<div class="col-lg-4 centered">
+					<br>
+						<p><img class="img img-circle" src="assets/img/clients/cli1.jpg" width="100px" height="100px"></p>
+						<h4>Sylvain Rougeau</h4>
+						<h5>Manager chez Hygiene Search</h5>
+					</div>
+					<div class="col-lg-8 blog-content">
+						<h2>Manager chez Hygiene Search</h2>
+						<p>Toutes les entreprises qui ne recherchent pas seulement un Expert-Comptable /CAC mais également un partenaire bienveillant ayant une réelle vision organisationnelle et stratégique, peuvent faire appel à Michel Rouchy.</p>
+						<p>Ses conseils sont toujours très pertinents et empreints d'une réelle empathie pour ses clients.</p>
+						<!--
+						<p><a href="#" class="icon icon-link"> Read More</a></p>
+						-->
+						<br>
+					</div>
+				</div><!-- /col -->
+				
+				<div class="col-lg-6 blog-bg">
+					<div class="col-lg-4 centered">
+					<br>
+						<p><img class="img img-circle" src="assets/img/clients/cli2.jpg" width="100px" height="100px"></p>
+						<h4>Jacques Doyen</h4>
+						<h5>Dirigeant associé chez Vivienne Consulting</h5>
+					</div>
+					<div class="col-lg-8 blog-content">
+						<h2>Dirigeant associé chez Vivienne Consulting</h2>
+						<p>J'ai rencontré Michel lorsqu'il travaillait au sein d'un grand groupe et l'ai retrouvé en tant que conseil indépendant.</p>
+						<p>J'ai eu l'occasion d'apprécier la qualité de ses conseils pour mon entreprise mais également pour la gestion de décisions patrimoniales personnelles.</p>
+						<br>
+					</div>
+				</div><!-- /col -->
+			</div><!-- /row -->
+			
+			
+			<br>
+			<br>
+			
+			<div class="row">
+				<div class="col-lg-6 blog-bg">
+					<div class="col-lg-4 centered">
+					<br>
+						<p><img class="img img-circle" src="assets/img/clients/cli3.jpg" width="100px" height="100px"></p>
+						<h4>Michel Perrinet</h4>
+						<h5>Délégué territorial chez Angers French Tech & PDG chez Octave</h5>
+					</div>
+					<div class="col-lg-8 blog-content">
+						<h2>Délégué territorial chez Angers French Tech & PDG chez Octave</h2>
+						<p>Au-delà de son expertise comptable et financière, Michel accroit la performance des organisations en optimisant les processus internes, fiabilisant les systèmes d'information au service d'une meilleure qualité de l'information et d'un accroissement de la rentabilité de l'activité.</p>
+						<p>Plein de bon sens et avec un doigté certain, il est tout à la fois capable de transformer les organisations avec douceur et d'accompagner le dirigeant dans l'exécution des décisions radicales qu'il est parfois nécessaire de prendre.</p>
+						<p>Ayant rencontré Michel en 2004 lors de la mise en place de système d'information dans diverses entreprises, j'ai découvert un expert brillant accessible, ... et un ami. </p>
+						<p>Je vous recommande donc Michel sans la moindre hésitation.</p>
+						<!--
+						<p><a href="#" class="icon icon-link"> Read More</a></p>
+						-->
+						<br>
+					</div>
+				</div><!-- /col -->
+				
+				<div class="col-lg-6 blog-bg">
+					<div class="col-lg-4 centered">
+					<br>
+						<p><img class="img img-circle" src="assets/img/clients/cli4.jpg" width="100px" height="100px"></p>
+						<h4>Gilbert Villa-Massone</h4>
+						<h5>President chez BY International Consulting</h5>
+					</div>
+					<div class="col-lg-8 blog-content">
+						<h2>President chez BY International Consulting</h2>
+						<p>Michel Rouchy a cette particularité que peu d'experts comptable ont: celui de comprendre les demandes -quelques fois exigeantes- de son client, et bien sûr d'y répondre.</p>
+						<p>Son expertise non discutable, lui permet de repérer immédiatement les zones d'amélioration de votre entreprise et de prodiguer des conseils qui sont les bienvenus.</p>
+						<p>Si vous souhaitez une attention personnalisée sur vos comptes, et le conseil avisé d'un expert qui sait anticiper, vous êtes à la bonne adresse !</p>
+
+						<br>
+					</div>
+				</div><!-- /col -->
+			</div><!-- /row -->			
+			
+
+			<br>
+			<br>
+		</div><!-- /container -->
+
+		
+		<!-- ==== SECTION DIVIDER6 ==== -->
+		<section class="section-divider textdivider divider6">
+			<div class="container">
+				<h1>CRAFTED IN NEW YORK, USA.</h1>
+				<hr>
+				<p>Some Address 987,</p>
+				<p>+34 9884 4893</p>
+				<p><a class="icon icon-twitter" href="#"></a> | <a class="icon icon-facebook" href="#"></a></p>
+			</div><!-- container -->
+		</section><!-- section -->
+		
+		<div class="container" id="contact" name="contact">
+			<div class="row">
+			<br>
+				<h1 class="centered">THANKS FOR VISITING US</h1>
+				<hr>
+				<br>
+				<br>
+				<div class="col-lg-4">
+					<h3>Contact Information</h3>
+					<p><span class="icon icon-home"></span> Some Address 987, NY<br/>
+						<span class="icon icon-phone"></span> +34 9884 4893 <br/>
+						<span class="icon icon-mobile"></span> +34 59855 9853 <br/>
+						<span class="icon icon-envelop"></span> <a href="#"> agency@blacktie.co</a> <br/>
+						<span class="icon icon-twitter"></span> <a href="#"> @blacktie_co </a> <br/>
+						<span class="icon icon-facebook"></span> <a href="#"> BlackTie Agency </a> <br/>
+					</p>
+				</div><!-- col -->
+				
+				<div class="col-lg-4">
+					<h3>Newsletter</h3>
+					<p>Register to our newsletter and be updated with the latests information regarding our services, offers and much more.</p>
+					<p>
+						<form class="form-horizontal" role="form">
+						  <div class="form-group">
+						    <label for="inputEmail1" class="col-lg-4 control-label"></label>
+						    <div class="col-lg-10">
+						      <input type="email" class="form-control" id="inputEmail1" placeholder="Email">
+						    </div>
+						  </div>
+						  <div class="form-group">
+						    <label for="text1" class="col-lg-4 control-label"></label>
+						    <div class="col-lg-10">
+						      <input type="text" class="form-control" id="text1" placeholder="Your Name">
+						    </div>
+						  </div>
+						  <div class="form-group">
+						    <div class="col-lg-10">
+						      <button type="submit" class="btn btn-success">Sign in</button>
+						    </div>
+						  </div>
+					   </form><!-- form -->
+					</p>
+				</div><!-- col -->
+				
+				<div class="col-lg-4">
+					<h3>Support Us</h3>
+					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+				</div><!-- col -->
+
+			</div><!-- row -->
+		
+		</div><!-- container -->
+
+		<div id="footerwrap">
+			<div class="container">
+				<h4>Created by <a href="http://blacktie.co">BlackTie.co</a> - Copyright 2014</h4>
+			</div>
+		</div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+		
+
+	<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="assets/js/retina.js"></script>
+	<script type="text/javascript" src="assets/js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="assets/js/smoothscroll.js"></script>
+	<script type="text/javascript" src="assets/js/jquery-func.js"></script>
+  
+  	<script>
+		function myMap()
+		{
+			var myLatLng = {lat: 48.829486, lng: 2.402089};
+			var mapCanvas = document.getElementById("map");
+			var mapOptions = {
+				center: myLatLng,
+				zoom: 12
+			};
+			
+			var map = new google.maps.Map(mapCanvas, mapOptions);
+			
+			var marker = new google.maps.Marker({
+				position: myLatLng,
+				map: map,
+				title: 'Nos bureaux',
+			});
+		}
+	</script>
+	
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBdMz6vwAIAu_gZcuk426CnE69eZOU2sXs&callback=myMap"></script>
+	
+    <!--
+	
+	<script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
+	-->
+  </body>
+</html>
