@@ -17,7 +17,7 @@ html,
 button,
 input,
 select,
-textarea {
+  textarea {
     color: #222;
 }
 
@@ -663,6 +663,7 @@ ul {
 }
 
 .horizontalPills {
+  font-size: 150%;
   border-right: 1px solid #ccc;
 }
 
@@ -670,17 +671,16 @@ ul {
   /*width: 150%;
   opacity: 1;
   */
-  font-size: 150%;
-    font-weight: bold;
+  font-size: 200%;
+  font-weight: bold;
 }
 
 .horizontalPills.active {
-  font-size: 150%;
-  /*font-weight: bold;*/
+  font-size: 200%;
+  font-weight: bold;
 }
 
-
-
+#vertical-panel ul li { margin: 0 20px 20px 0; }
 
 
 
